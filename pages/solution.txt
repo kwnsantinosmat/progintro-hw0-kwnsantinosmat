@@ -1,3 +1,4 @@
 https://kwnsantinosmat.github.io/progintro-hw0-kwnsantinosmat/
 byte0: you_just_mastered_changing_directories
 
+byte1: in_every_job_that_must_be_done_there_is_an_element_of_fun
