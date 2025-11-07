@@ -11,3 +11,5 @@ byte9: ls -la  kai vrika ena arxeio - kai to ekana cat kai doulepse
 byte10: ekana sort gia na m ta valei se arithmimenh seira kai me to head vrika to 42o onoma
 byte11: me thn edolh uniq vrika poses fores emfanizode ta onomata kai ekana sort gia na vrw to pio sixno onoma
 byte12: apla egrapsa which tuxsay kai mou to evgale 
+byte13: edw ekana git log gia na dw to istoriko kai se ena apo ta commits eixe ton kodiko
+byte14: edw ekana git log -p kai arxisa na pataw d poles fores mexri pou pige sto telos kai evgale ton kodiko
