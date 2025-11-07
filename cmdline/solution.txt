@@ -7,6 +7,7 @@ byte5: sdi2500125_1762327568_951231952_79_167_105_187_53154_22
 byte6: unzipping_is_a_piece_of_cake
 byte7: tar_jokes_cant_stick
 byte8: cant_keep_secrets_from_you
+byte9: filepaths_are_handy
 byte10: i_wonder_what_this_does
 byte11: Peta
 byte12: which_command_is_the_best
