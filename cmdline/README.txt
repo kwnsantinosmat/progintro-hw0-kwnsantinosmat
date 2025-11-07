@@ -7,3 +7,4 @@ byte5: eftiaja ena temp directory kai bika metaglotisa to arxeio c kai to etreja
 byte6: bika sto /tmp/byte6 kai to ekana unzip ekei mesa kai meta cat kai m to evgale 
 byte7: paromios me to byte6 bika sto /tmp/byte7 kai alla ekana cp to file ekei kai to aposibiesa me tar kai to anoija 
 byte8: apla ekana nano to arxeio 
+byte9 ls -la  kai vrika ena arxeio - kai to ekana cat kai doulepse
