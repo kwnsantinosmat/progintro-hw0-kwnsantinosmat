@@ -9,3 +9,4 @@ byte7: tar_jokes_cant_stick
 byte8: cant_keep_secrets_from_you
 byte10: i_wonder_what_this_does
 byte11: Peta
+byte12: which_command_is_the_best

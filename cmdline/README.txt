@@ -10,3 +10,4 @@ byte8: apla ekana nano to arxeio
 byte9: ls -la  kai vrika ena arxeio - kai to ekana cat kai doulepse
 byte10: ekana sort gia na m ta valei se arithmimenh seira kai me to head vrika to 42o onoma
 byte11: me thn edolh uniq vrika poses fores emfanizode ta onomata kai ekana sort gia na vrw to pio sixno onoma
+byte12: apla egrapsa which tuxsay kai mou to evgale 
