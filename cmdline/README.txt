@@ -5,3 +5,4 @@ byte3: xrhsimopoihsa diff sta duo arxeia gia na dw pia lejh eixe diafora kai m e
 byte4: egrapsa find -name cup.txt kai m evgale thn topothesia kai apla thn akolouthisa
 byte5: eftiaja ena temp directory kai bika metaglotisa to arxeio c kai to etreja
 byte6: bika sto /tmp/byte6 kai to ekana unzip ekei mesa kai meta cat kai m to evgale 
+byte7: paromios me to byte6 bika sto /tmp/byte7 kai alla ekana cp to file ekei kai to aposibiesa me tar kai to anoija 
